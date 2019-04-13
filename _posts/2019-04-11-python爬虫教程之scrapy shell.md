@@ -10,8 +10,7 @@ tags:
     - python
     - 爬虫
 ---
-<<<<<<< HEAD
-=======
+
 
 ### Python 爬虫教程 scrapy shell
 
