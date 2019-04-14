@@ -24,7 +24,7 @@ tags:
 
 我们在anaconda中搜索scrapy  点击apply
 
-![](../img/scrapy01.png)
+![](https://github.com/abbhay/abbhay.github.io/blob/master/img/scrapy01.png)
 
 ##### 3.启动命令(在安装好有scrapy的环境里面)
 
@@ -52,17 +52,17 @@ response.css()
 
 `response.css('title')`
 
-![](../img/scrapy02.png)
+![](https://github.com/abbhay/abbhay.github.io/blob/master/img/scrapy02.png)
 
 ##### 5.疑问----那么我们如何获取里面的信息呢
 
-![](../img/scrapy03.png)
+![](https://github.com/abbhay/abbhay.github.io/blob/master/img/scrapy03.png)
 
-![](../img/scrapy04.png)
+![](https://github.com/abbhay/abbhay.github.io/blob/master/img/scrapy04.png)
 
 ##### 6.查看数据
 
-![](../img/scrapy05.png)
+![](https://github.com/abbhay/abbhay.github.io/blob/master/img/scrapy05.png)
 
 当我们输入的时候  回车就自己运行了 那我们如何进行多行输入
 
@@ -70,19 +70,19 @@ response.css()
 
 这个时候我们就用 Ctri +Enter j就可以了
 
-![](../img/scrapy06.png)
+![](https://github.com/abbhay/abbhay.github.io/blob/master/img/scrapy06.png)
 
 #####  7.通过结构化提取 查看数据是否是正确的
 
 那我们再通过结构化提取 看看我们的数据是否在里面
 
-![](.//img/scrapy07.png)
+![](https://github.com/abbhay/abbhay.github.io/blob/master/img/scrapy07.png)
 
 说明数据在里面 我们的xpath语法正确
 
 ##### 结果
 
-![](.//img/scrapy08.png)
+![](https://github.com/abbhay/abbhay.github.io/blob/master/img/scrapy08.png)
 
 ### 结语
 
