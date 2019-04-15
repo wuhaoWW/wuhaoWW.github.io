@@ -4,7 +4,7 @@ title:     python爬虫教程
 subtitle:   python爬虫教程之scrapy shell
 date:       2019-04-11
 author:     abhhay
-header-img: ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555330650430&di=43a8d19d02a7392b76ba5af28113aa3a&imgtype=jpg&src=http%3A%2F%2Fimg2.imgtn.bdimg.com%2Fit%2Fu%3D1921959847%2C2447635451%26fm%3D214%26gp%3D0.jpg)
+header-img: ![](https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-763944.jpg)
 catalog: true
 tags:
     - python
