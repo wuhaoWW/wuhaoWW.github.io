@@ -24,7 +24,7 @@ tags:
 
 我们在anaconda中搜索scrapy  点击apply
 
-![](../img/scrapy01.png)
+![](img/scrapy01.png)
 
 ##### 3.启动命令(在安装好有scrapy的环境里面)
 
