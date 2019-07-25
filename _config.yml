@@ -1,13 +1,13 @@
 # Site settings
-title: Abbhay Blog
-SEOTitle: Abbhay | 坑坑
+title: Chester Blog
+SEOTitle: Chester | 张小皮
 header-img: img/wallhaven-763829.jpg
-email: abhay123@163.com
-description:  A good pythoner"
-keyword: "abbhay,tfswufe,kengkeng "
-url: "http://abbhay.github.io"          # your host, for absolute URL
+email: zhangjiahao@zjhwork.xyz
+description:  A lovely javaer"
+keyword: "chester,tfswufe,张小皮 "
+url: "http://zjhChester.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/zjhChester/zjhChester.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -19,9 +19,8 @@ sidebar-avatar: /img/photo.jpg      # use absolute URL, seeing it's used in both
 # SNS settings
 RSS: false
 # weibo_username:     
-zhihu_username:     shuai-shuai-de-keng-keng
-github_username:    abbhay
-bokeyuan_username: abhay
+zhihu_username:     张小皮
+github_username:    zjhChester
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -65,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 4bb78797615801ed51c8                            #生成的clientID
   clientSecret: 4d9e79a8f9597ae8e4574a7ee9c0209a53d4a261    #生成的clientSecret
-  repo: abbhay.github.io    #仓库名称
-  owner: abbhay    #github用户名
-  admin: abbhay
+  repo: zjhChester.github.io    #仓库名称
+  owner: zjhChester    #github用户名
+  admin: zjhChester
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
