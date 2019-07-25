@@ -12,7 +12,7 @@ github_repo: "https://github.com/zjhChester/zjhChester.github.io" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "ppnn13% dkstFeb.1st "
-sidebar-avatar: /img/photo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/IMG_20190725_152317.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
