@@ -98,7 +98,7 @@
 
 #### 2.5.1、图解：
 
-![1569926084987](/mdImg//mdImg/SpringMvc%E7%AC%AC%E4%B8%80%E8%8A%82.assets/1569926084987.png)
+![1569926084987](/mdImg/SpringMvc%E7%AC%AC%E4%B8%80%E8%8A%82.assets/1569926084987.png)
 
 #### 2.5.2、源码：
 
