@@ -383,7 +383,7 @@ public class HelloController {
         <dependency>
             <groupId>org.mybatis</groupId>
             <artifactId>mybatis-spring</artifactId>
-            <version>1.2.2</version>
+            <version>1.3.0</version>
         </dependency>
 ~~~
 
