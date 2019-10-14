@@ -202,7 +202,7 @@ db.properties
 
 ~~~properties
 driver=com.mysql.cj.jdbc.Driver
-url=jdbc:mysql://localhost:3306/blog?javaee=GMT&useSSL=false
+url=jdbc:mysql://localhost:3306/javaee?serverTimezone=GMT&useSSL=false&allowPublicKeyRetrieval=true
 username=root
 password=123
 ~~~
