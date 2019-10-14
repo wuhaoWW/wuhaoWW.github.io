@@ -1,3 +1,12 @@
+---
+layout:     post
+author:     zjhChester
+header-img: img/post-bg-universe.jpg
+catalog: true
+tags:
+    - spring
+---
+
 # spring中的bean的作用范围
 
 ## 1、bean标签的scope属性：

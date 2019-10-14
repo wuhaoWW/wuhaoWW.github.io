@@ -1,3 +1,12 @@
+---
+layout:     post
+author:     zjhChester
+header-img: img/post-bg-universe.jpg
+catalog: true
+tags:
+    - ssm整合
+---
+
 # spring+springmvc+mybatis（ssm）整合
 
 ## 1.前期准备
