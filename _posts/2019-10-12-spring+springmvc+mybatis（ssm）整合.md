@@ -1,7 +1,7 @@
 ---
 layout:     post
 author:     zjhChester
-header-img: img/hmbb.jpg
+header-img: img/post-bg-os-metro.jpg
 catalog: true
 tags:
     - ssm整合
