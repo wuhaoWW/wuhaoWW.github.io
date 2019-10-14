@@ -456,3 +456,20 @@ jdbc.password=123
 ![1570873725282](/mdImg/spring+springmvc+mybatis%EF%BC%88ssm%EF%BC%89%E6%95%B4%E5%90%88.assets/1570873725282.png)
 
 原因是适配版本问题，这个问题搞了我一个半小小时。。。手动沮丧
+
+4.最后一个就是需要加入pom.xml的静态资源
+
+~~~xml
+<resources>
+            <resource>
+                <directory>src/main/java</directory>
+                <includes>
+                    <include>**/*.properties</include>
+                    <include>**/*.xml</include>
+                </includes>
+                <filtering>false</filtering>
+            </resource>
+        </resources>
+~~~
+
+不然会找不到*mapper.xml或者.properties ，这个是解决nested exception is org.apache.ibatis.binding.BindingExceptio这个异常的
