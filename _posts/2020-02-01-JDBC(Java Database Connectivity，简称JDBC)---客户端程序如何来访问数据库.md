@@ -1,3 +1,11 @@
+---
+layout:     post
+author:     zjhChester
+header-img: img/post-bg-hacker.jpg
+catalog: true
+tags:
+    - java
+---
 # JDBC(Java Database Connectivity，简称JDBC)---客户端程序如何来访问数据库
 
 ## 前言：
