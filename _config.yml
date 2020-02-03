@@ -7,7 +7,7 @@ description:  A lovely javaer"
 keyword: "chester,tfswufe,张小皮 "
 url: "http://zjhChester.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/zjhChester/zjhChester.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -58,8 +58,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: a6b49874be2a1ad3a86e                            #生成的clientID
-  clientSecret: fd6ef115e5e2d71e09e37093b215edd2217a9adc    #生成的clientSecret
+  clientID: 0f280e42e10447fc3581                            #生成的clientID
+  clientSecret: 616e845b9267771af216ae5e5ed4c4eedbda6aad    #生成的clientSecret
   repo: zjhChester.github.io    #仓库名称
   owner: zjhChester    #github用户名
   admin: zjhChester
