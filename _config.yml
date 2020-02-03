@@ -2,7 +2,7 @@
 title: Chester Blog
 SEOTitle: Chester | 张小皮
 header-img: img/home-bg-o.jpg
-email: zhangjiahao@zjhwork.xyz
+email: zjhChester@gmail.com
 description:  A lovely javaer"
 keyword: "chester,tfswufe,张小皮 "
 url: "http://zjhChester.github.io"          # your host, for absolute URL
@@ -56,8 +56,8 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+ Disqus（https://disqus.com/）
+ disqus_username: zjhChester@gmail.com
 
 # Gitalk
 gitalk:
