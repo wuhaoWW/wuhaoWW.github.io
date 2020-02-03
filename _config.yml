@@ -7,7 +7,7 @@ description:  A lovely javaer"
 keyword: "chester,tfswufe,张小皮 "
 url: "http://zjhChester.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/zjhChester/zjhChester.github.io" # you code repository
+github_repo: "https://github.com/zjhChester/zjhChester.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -47,7 +47,7 @@ gems: [jekyll-paginate]
 # Markdown settings
 # replace redcarpet to kramdown,
 # although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
-document: http://jekyllrb.com/docs/configuration/#kramdown
+#document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 highlighter: rouge
 kramdown:
@@ -56,14 +56,14 @@ kramdown:
 
 
 # 评论系统
- Disqus（https://disqus.com/）
- disqus_username: zjhChester@gmail.com
+# Disqus（https://disqus.com/）
+#disqus_username: zjhChester
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 4bb78797615801ed51c8                            #生成的clientID
-  clientSecret: 4d9e79a8f9597ae8e4574a7ee9c0209a53d4a261    #生成的clientSecret
+  clientID: 841a85ebcd6c4647aa12                            #生成的clientID
+  clientSecret: fca6a5943f0f7f3306ca9cb28bd65ada39ca2f22    #生成的clientSecret
   repo: zjhChester.github.io    #仓库名称
   owner: zjhChester    #github用户名
   admin: zjhChester
