@@ -104,8 +104,4 @@ service-worker: true
          title: "github.Fwenhao",
          href: "https://Fwenhao.github.io"
      }
-#,{
-#         title: "Apple Developer",
-#         href: "https://developer.apple.com/"
-#     }
  ]
